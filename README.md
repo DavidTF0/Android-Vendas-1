@@ -33,7 +33,8 @@ O aplicativo deverá:
 * Reproduzir a interface definida no layout fornecido
 * Consumir o json (clientes.json) por meio de uma requisição http para exibir os dados dos clientes
 * Consumir o json (pedidos.json) por meio de uma requisição http  para listagem de histórico de pedidos
-
+* A seta da toolbar deve voltar para o menu principal
+* Snackbar de status
 
 3. Dados do cliente	
     * Histórico de pedidos
