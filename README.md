@@ -35,10 +35,6 @@ O aplicativo deverá:
 * Consumir o json (pedidos.json) por meio de uma requisição http  para listagem de histórico de pedidos
 
 
-Itens Opcionais:
-* A seta da toolbar deve voltar para o menu principal
-* Snackbar de status
-
 3. Dados do cliente	
     * Histórico de pedidos
 	    * A seta da toolbar deve voltar para a tela anterior
